@@ -8,14 +8,14 @@ body {
 }
 header {
     background: #333;
-    color: #fff;
+    color: #03f4fc;
     padding: 20px;
     text-align: center;
 }
 section {
     margin: 20px;
     padding: 20px;
-    background: #fff;
+    background: #03f4fc;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -23,13 +23,13 @@ footer {
     text-align: center;
     padding: 10px;
     background: #333;
-    color: #fff;
+    color: #03f4fc;
     position: fixed;
     bottom: 0;
     width: 100%;
 }
 a {
-    color: #fff;
+    color: #03f4fc;
     text-decoration: none;
 }
 a:hover {
